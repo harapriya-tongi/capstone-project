@@ -1,4 +1,4 @@
-# capstone-project
+# Lead scoring Analysis Project
 LEADING SCORE ANALYSIS
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.
 The company markets its courses on several websites, search engines, and sometimes even social media. Once these people land on the website, they might browse the courses, fill out a form for the course, or watch some videos. When these people fill out a form with their email address or phone number, they are classified as leads. Moreover, the company also gets leads through past referrals. Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. Through this process, some of the leads get converted into successful sales, while most do not. The typical lead-to-success conversion rate at X Education is around 30%.
